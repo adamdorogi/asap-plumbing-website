@@ -38,3 +38,11 @@ Semantic landmarks and heading hierarchy; meaningful image alternatives; labelle
 ## Content boundaries
 
 Phone, email, location, licensed-plumber description, renovations, general plumbing and drain clearing were found on the business's public profiles. No verified customer reviews were available; no rating or testimonial was invented. Detailed service copy and surrounding suburb coverage are draft assumptions documented in `PRODUCT.md` and `README.md`.
+
+## Production
+
+Live URL: https://asap-plumbing-website.vercel.app/ . Vercel deployment `dpl_7fQhbJ9NNyzvVkq6PmwRV5C7dS4S`, project `asap-plumbing-website`, target production, state READY.
+
+The live homepage, privacy page, robots.txt, sitemap.xml, favicon and social image return HTTP 200. The production browser loaded the hero, locally served fonts and correct canonical URL. Every phone link points to the confirmed number. A browser check of the production form prepared the correct recipient's draft; no enquiry was sent. The test form was cleared, viewport override reset, and homepage left open as the deliverable.
+
+The independent finish reviewer accepted the visual result and subsequently scored its sole persistence correction resolved. The mechanical image-comparison result is retained separately, without being relabelled as an automatic pass. See `docs/design-review.md`.

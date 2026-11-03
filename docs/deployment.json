@@ -1,0 +1,14 @@
+{
+  "url": "https://asap-plumbing-website.vercel.app",
+  "project": "asap-plumbing-website",
+  "projectId": "prj_xQA2lqgQUFnC5WKnsNhrd5IzONVj",
+  "teamId": "team_ehWoSRr89uPm6n0BtNW4SGLw",
+  "deploymentId": "dpl_7fQhbJ9NNyzvVkq6PmwRV5C7dS4S",
+  "deploymentUrl": "https://asap-plumbing-website-ags54tbmm-adamdorogis-projects.vercel.app",
+  "target": "production",
+  "state": "READY",
+  "sourceCommit": "7423f7195cce18525bae6d1a1f5c97da5905d354",
+  "verifiedOn": "2026-11-03",
+  "sourceFiles": 25,
+  "note": "Later commits contain documentation and verification artifacts only. Production source files match this commit. The public project URL was assigned by the deployment."
+}

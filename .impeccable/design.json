@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-03T19:42:26.708Z",
+  "title": "Design System: ASAP Plumbing QLD",
+  "extensions": {
+    "colorMeta": {
+      "orange": {
+        "role": "primary",
+        "displayName": "Workwear Orange",
+        "tonalRamp": [
+          "oklch(15% 0.19632 38.64)",
+          "oklch(25% 0.19632 38.64)",
+          "oklch(35% 0.19632 38.64)",
+          "oklch(45% 0.19632 38.64)",
+          "oklch(55% 0.19632 38.64)",
+          "oklch(65% 0.19632 38.64)",
+          "oklch(80% 0.19632 38.64)",
+          "oklch(95% 0.19632 38.64)"
+        ]
+      },
+      "orange-dark": {
+        "role": "primary",
+        "displayName": "Deep Workwear Orange",
+        "tonalRamp": [
+          "oklch(15% 0.16589 37.94)",
+          "oklch(25% 0.16589 37.94)",
+          "oklch(35% 0.16589 37.94)",
+          "oklch(45% 0.16589 37.94)",
+          "oklch(55% 0.16589 37.94)",
+          "oklch(65% 0.16589 37.94)",
+          "oklch(80% 0.16589 37.94)",
+          "oklch(95% 0.16589 37.94)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Trade Charcoal",
+        "tonalRamp": [
+          "oklch(15% 0.01007 132.65)",
+          "oklch(25% 0.01007 132.65)",
+          "oklch(35% 0.01007 132.65)",
+          "oklch(45% 0.01007 132.65)",
+          "oklch(55% 0.01007 132.65)",
+          "oklch(65% 0.01007 132.65)",
+          "oklch(80% 0.01007 132.65)",
+          "oklch(95% 0.01007 132.65)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Light Paper",
+        "tonalRamp": [
+          "oklch(15% 0.00660 106.52)",
+          "oklch(25% 0.00660 106.52)",
+          "oklch(35% 0.00660 106.52)",
+          "oklch(45% 0.00660 106.52)",
+          "oklch(55% 0.00660 106.52)",
+          "oklch(65% 0.00660 106.52)",
+          "oklch(80% 0.00660 106.52)",
+          "oklch(95% 0.00660 106.52)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.00000 0.00)",
+          "oklch(25% 0.00000 0.00)",
+          "oklch(35% 0.00000 0.00)",
+          "oklch(45% 0.00000 0.00)",
+          "oklch(55% 0.00000 0.00)",
+          "oklch(65% 0.00000 0.00)",
+          "oklch(80% 0.00000 0.00)",
+          "oklch(95% 0.00000 0.00)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Olive Grey",
+        "tonalRamp": [
+          "oklch(15% 0.01632 124.82)",
+          "oklch(25% 0.01632 124.82)",
+          "oklch(35% 0.01632 124.82)",
+          "oklch(45% 0.01632 124.82)",
+          "oklch(55% 0.01632 124.82)",
+          "oklch(65% 0.01632 124.82)",
+          "oklch(80% 0.01632 124.82)",
+          "oklch(95% 0.01632 124.82)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Divider Grey",
+        "tonalRamp": [
+          "oklch(15% 0.01235 116.83)",
+          "oklch(25% 0.01235 116.83)",
+          "oklch(35% 0.01235 116.83)",
+          "oklch(45% 0.01235 116.83)",
+          "oklch(55% 0.01235 116.83)",
+          "oklch(65% 0.01235 116.83)",
+          "oklch(80% 0.01235 116.83)",
+          "oklch(95% 0.01235 116.83)"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft Paper",
+        "tonalRamp": [
+          "oklch(15% 0.01067 112.37)",
+          "oklch(25% 0.01067 112.37)",
+          "oklch(35% 0.01067 112.37)",
+          "oklch(45% 0.01067 112.37)",
+          "oklch(55% 0.01067 112.37)",
+          "oklch(65% 0.01067 112.37)",
+          "oklch(80% 0.01067 112.37)",
+          "oklch(95% 0.01067 112.37)"
+        ]
+      },
+      "contact-ink": {
+        "role": "neutral",
+        "displayName": "Contact Ink",
+        "tonalRamp": [
+          "oklch(15% 0.01610 124.55)",
+          "oklch(25% 0.01610 124.55)",
+          "oklch(35% 0.01610 124.55)",
+          "oklch(45% 0.01610 124.55)",
+          "oklch(55% 0.01610 124.55)",
+          "oklch(65% 0.01610 124.55)",
+          "oklch(80% 0.01610 124.55)",
+          "oklch(95% 0.01610 124.55)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "tonalRamp": [
+          "oklch(15% 0.02424 121.24)",
+          "oklch(25% 0.02424 121.24)",
+          "oklch(35% 0.02424 121.24)",
+          "oklch(45% 0.02424 121.24)",
+          "oklch(55% 0.02424 121.24)",
+          "oklch(65% 0.02424 121.24)",
+          "oklch(80% 0.02424 121.24)",
+          "oklch(95% 0.02424 121.24)"
+        ]
+      },
+      "field-placeholder": {
+        "role": "neutral",
+        "displayName": "Field Placeholder",
+        "tonalRamp": [
+          "oklch(15% 0.02041 121.02)",
+          "oklch(25% 0.02041 121.02)",
+          "oklch(35% 0.02041 121.02)",
+          "oklch(45% 0.02041 121.02)",
+          "oklch(55% 0.02041 121.02)",
+          "oklch(65% 0.02041 121.02)",
+          "oklch(80% 0.02041 121.02)",
+          "oklch(95% 0.02041 121.02)"
+        ]
+      },
+      "error": {
+        "role": "error",
+        "displayName": "Field Error",
+        "tonalRamp": [
+          "oklch(15% 0.16659 31.98)",
+          "oklch(25% 0.16659 31.98)",
+          "oklch(35% 0.16659 31.98)",
+          "oklch(45% 0.16659 31.98)",
+          "oklch(55% 0.16659 31.98)",
+          "oklch(65% 0.16659 31.98)",
+          "oklch(80% 0.16659 31.98)",
+          "oklch(95% 0.16659 31.98)"
+        ]
+      },
+      "dark-hover": {
+        "role": "neutral",
+        "displayName": "Dark Hover",
+        "tonalRamp": [
+          "oklch(15% 0.02851 129.35)",
+          "oklch(25% 0.02851 129.35)",
+          "oklch(35% 0.02851 129.35)",
+          "oklch(45% 0.02851 129.35)",
+          "oklch(55% 0.02851 129.35)",
+          "oklch(65% 0.02851 129.35)",
+          "oklch(80% 0.02851 129.35)",
+          "oklch(95% 0.02851 129.35)"
+        ]
+      },
+      "dark-muted": {
+        "role": "neutral",
+        "displayName": "Dark Muted",
+        "tonalRamp": [
+          "oklch(15% 0.02119 124.69)",
+          "oklch(25% 0.02119 124.69)",
+          "oklch(35% 0.02119 124.69)",
+          "oklch(45% 0.02119 124.69)",
+          "oklch(55% 0.02119 124.69)",
+          "oklch(65% 0.02119 124.69)",
+          "oklch(80% 0.02119 124.69)",
+          "oklch(95% 0.02119 124.69)"
+        ]
+      },
+      "footer-muted": {
+        "role": "neutral",
+        "displayName": "Footer Muted",
+        "tonalRamp": [
+          "oklch(15% 0.02473 127.63)",
+          "oklch(25% 0.02473 127.63)",
+          "oklch(35% 0.02473 127.63)",
+          "oklch(45% 0.02473 127.63)",
+          "oklch(55% 0.02473 127.63)",
+          "oklch(65% 0.02473 127.63)",
+          "oklch(80% 0.02473 127.63)",
+          "oklch(95% 0.02473 127.63)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Home Display",
+        "purpose": "Two unbroken hero lines; source additionally applies width:122% and scaleX(.82) only to this heading. Responsive overrides are documented in DESIGN.md."
+      },
+      "headline": {
+        "displayName": "Section Headline",
+        "purpose": "Bold headings in work and local sections, with contextual variants for services, FAQ and urgent sections."
+      },
+      "title": {
+        "displayName": "Service Title",
+        "purpose": "Bold service disclosure title."
+      },
+      "contact-display": {
+        "displayName": "Contact Display",
+        "purpose": "Black-weight stacked contact invitation."
+      },
+      "hero-intro": {
+        "displayName": "Hero Introduction",
+        "purpose": "Compact descriptive text beneath the home display."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Practical explanatory copy and the default prose style."
+      },
+      "label": {
+        "displayName": "Field Label",
+        "purpose": "Bold Manrope labels above form controls."
+      },
+      "action": {
+        "displayName": "Action",
+        "purpose": "Base condensed action style; header, hero, urgent and enquiry contexts adjust size."
+      },
+      "input": {
+        "displayName": "Field Text",
+        "purpose": "Desktop field text; increases to 16px at the mobile breakpoint."
+      },
+      "navigation": {
+        "displayName": "Navigation",
+        "purpose": "Bold Manrope desktop navigation."
+      },
+      "chip": {
+        "displayName": "Suburb Tag",
+        "purpose": "Small non-interactive locality labels."
+      },
+      "locality": {
+        "displayName": "Locality Stamp",
+        "purpose": "Short stacked location marker inside the circular orange stamp."
+      }
+    },
+    "shadows": [
+      {
+        "name": "mobile-navigation",
+        "value": "0 16px 20px -16px #24272255",
+        "purpose": "The sole implemented box-shadow; lifts the temporary mobile dropdown below the header."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "Existing --ease custom property; directional icon, disclosure and photographic transitions."
+      },
+      {
+        "name": "button-colour",
+        "value": "background .2s, color .2s, border-color .2s",
+        "purpose": "Action fill, text and border feedback."
+      },
+      {
+        "name": "button-arrow",
+        "value": "transform .35s var(--ease)",
+        "purpose": "Button arrow moves translate(3px, -3px) on hover."
+      },
+      {
+        "name": "navigation-underline",
+        "value": "transform .28s var(--ease)",
+        "purpose": "Link underline scales from the left on desktop navigation hover."
+      },
+      {
+        "name": "service-arrow",
+        "value": "transform .4s var(--ease)",
+        "purpose": "Service disclosure arrow rotates 90deg when open; its colour transition is .25s."
+      },
+      {
+        "name": "service-reveal",
+        "value": "service-reveal .35s var(--ease)",
+        "purpose": "Open detail animates opacity .5 to 1 and clip-path inset(0 0 10% 0) to inset(0)."
+      },
+      {
+        "name": "project-image",
+        "value": "transform .7s var(--ease)",
+        "purpose": "Project hover scales the photo to 1.035."
+      },
+      {
+        "name": "directional-links",
+        "value": "transform .3s var(--ease)",
+        "purpose": "Text/project arrows lift by a few pixels; service-band arrows translateX(8px); FAQ chevrons rotate 180deg."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important;",
+        "purpose": "Under prefers-reduced-motion: reduce, applies to all elements and pseudo-elements; html scroll-behavior becomes auto."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow-phone-max",
+        "value": "375px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "760px"
+      },
+      {
+        "name": "tablet-max",
+        "value": "1000px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1200px"
+      },
+      {
+        "name": "wide-desktop-min",
+        "value": "1921px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Action",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Base orange call action; contextual sizes are retained in the source.",
+      "html": "<a class=\"ds-button ds-primary\" href=\"tel:+61434151105\">Call Mike 0434 151 105<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"31\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:20px;min-height:62px;padding:12px 24px;border:2px solid transparent;border-radius:5px;font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:32px;font-weight:700;line-height:1.05;text-decoration:none;cursor:pointer;transition:background .2s,color .2s,border-color .2s;}.ds-button svg{flex-shrink:0;width:31px;height:31px;transition:transform .35s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-button:hover svg{transform:translate(3px,-3px);}.ds-button:focus-visible{outline:3px solid var(--ink,#242722);outline-offset:5px;}.ds-button:disabled{cursor:wait;opacity:.6;}.ds-primary{background:var(--orange,#e65012);color:var(--white,#ffffff);}.ds-primary:hover{background:var(--orange-dark,#b63c0d);}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}}"
+    },
+    {
+      "name": "Outline Action",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Secondary quote action; charcoal border becomes a filled charcoal button on hover.",
+      "html": "<a class=\"ds-button ds-outline\" href=\"#contact\">Get a quote</a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:20px;min-height:62px;padding:12px 24px;border:2px solid transparent;border-radius:5px;font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:32px;font-weight:700;line-height:1.05;text-decoration:none;cursor:pointer;transition:background .2s,color .2s,border-color .2s;}.ds-button svg{flex-shrink:0;width:31px;height:31px;transition:transform .35s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-button:hover svg{transform:translate(3px,-3px);}.ds-button:focus-visible{outline:3px solid var(--ink,#242722);outline-offset:5px;}.ds-button:disabled{cursor:wait;opacity:.6;}.ds-outline{background:transparent;color:var(--ink,#242722);border-color:var(--ink,#242722);}.ds-outline:hover{background:var(--ink,#242722);color:var(--paper,#f7f7f2);}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}}"
+    },
+    {
+      "name": "Dark Action",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Charcoal action used inside the pale enquiry surface.",
+      "html": "<button type=\"button\" class=\"ds-button ds-dark\">Prepare email enquiry<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"31\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></button>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:20px;min-height:62px;padding:12px 24px;border:2px solid transparent;border-radius:5px;font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:32px;font-weight:700;line-height:1.05;text-decoration:none;cursor:pointer;transition:background .2s,color .2s,border-color .2s;}.ds-button svg{flex-shrink:0;width:31px;height:31px;transition:transform .35s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-button:hover svg{transform:translate(3px,-3px);}.ds-button:focus-visible{outline:3px solid var(--ink,#242722);outline-offset:5px;}.ds-button:disabled{cursor:wait;opacity:.6;}.ds-dark{background:var(--ink,#242722);color:var(--paper,#f7f7f2);}.ds-dark:hover{background:var(--dark-hover,#3c4434);}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}}"
+    },
+    {
+      "name": "Enquiry Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Square transparent field with an above-field label, visible focus and an accessible invalid state.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-phone\">Phone number <span aria-hidden=\"true\">*</span></label><input id=\"ds-phone\" name=\"phone\" type=\"tel\" autocomplete=\"tel\" placeholder=\"04xx xxx xxx\" required maxlength=\"30\" /></div>",
+      "css": ".ds-field{margin-bottom:22px;min-width:0;font-family:var(--font-body,'Manrope'),sans-serif;color:var(--ink,#242722);}.ds-field label{display:block;margin-bottom:9px;font-size:13px;font-weight:700;line-height:1.65;}.ds-field input{width:100%;min-height:48px;background:transparent;border:1px solid var(--field-border,#828777);border-radius:0;color:var(--ink,#242722);padding:12px 13px;font-family:var(--font-body,'Manrope'),sans-serif;font-size:14px;line-height:1.5;caret-color:var(--orange-dark,#b63c0d);}.ds-field input::placeholder{color:var(--field-placeholder,#6a6e61);opacity:1;}.ds-field input:hover{border-color:var(--ink,#242722);}.ds-field input:focus{outline:2px solid var(--ink,#242722);outline-offset:2px;border-color:var(--ink,#242722);}.ds-field input[aria-invalid=true]{border-color:var(--error,#a82914);}.ds-field-error{margin:8px 0 0;font-size:12px;font-weight:500;line-height:1.65;color:var(--error,#a82914);}@media(max-width:760px){.ds-field label{font-size:12px;}.ds-field input{font-size:16px;}.ds-field{margin-bottom:20px;}}"
+    },
+    {
+      "name": "Desktop Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Bold practical links with orange underlines; the complete header changes to a dropdown at 760px.",
+      "html": "<nav class=\"ds-navigation\" aria-label=\"Main navigation\"><a href=\"#services\">Services</a><a href=\"#work\">Our work</a><a href=\"#about\">About</a><a href=\"#contact\">Contact</a></nav>",
+      "css": ".ds-navigation{display:flex;gap:clamp(24px,4.6vw,76px);font-family:var(--font-body,'Manrope'),sans-serif;font-size:clamp(16px,1.65vw,25px);font-weight:700;line-height:1.65;color:var(--ink,#242722);}.ds-navigation a{position:relative;color:inherit;text-decoration:none;padding:9px 0;}.ds-navigation a::after{content:'';position:absolute;bottom:3px;left:0;width:100%;height:2px;background:var(--orange,#e65012);transform:scaleX(0);transform-origin:left;transition:transform .28s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-navigation a:hover::after{transform:scaleX(1);}.ds-navigation a:focus-visible{outline:3px solid var(--orange-dark,#b63c0d);outline-offset:5px;}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}}"
+    },
+    {
+      "name": "Suburb Tag",
+      "kind": "chip",
+      "refersTo": "suburb-chip",
+      "description": "A non-interactive locality label; no selected or hover state.",
+      "html": "<span class=\"ds-suburb\">Woolloongabba</span>",
+      "css": ".ds-suburb{display:inline-block;border:1px solid var(--line,#d6d8cf);padding:6px 12px;font-family:var(--font-body,'Manrope'),sans-serif;font-size:12px;font-weight:500;line-height:1.65;color:var(--ink,#242722);border-radius:0;}@media(max-width:760px){.ds-suburb{font-size:11px;padding:5px 10px;}}"
+    },
+    {
+      "name": "Enquiry Review Surface",
+      "kind": "card",
+      "refersTo": "enquiry-panel",
+      "description": "The flat pale container shown on the orange contact section, sampled in its review state; actual flow logic lives in quote-form.tsx.",
+      "html": "<div class=\"ds-enquiry-panel\"><div class=\"ds-draft\" tabindex=\"-1\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"38\" height=\"38\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 6 9 17l-5-5\"/></svg><h3>Your enquiry is ready.</h3><p>Open it in your email app, review the details and hit send. It hasn’t been sent yet.</p><a class=\"ds-button ds-dark ds-draft-action\" href=\"mailto:asapplumbingqld@gmail.com\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"23\" height=\"23\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect width=\"20\" height=\"16\" x=\"2\" y=\"4\" rx=\"2\"/><path d=\"m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7\"/></svg>Open email app<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"31\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></a><p class=\"ds-form-note\">Prefer to send it yourself? Email <a href=\"mailto:asapplumbingqld@gmail.com\">asapplumbingqld@gmail.com</a>.</p></div></div>",
+      "css": ".ds-enquiry-panel{background:var(--paper,#f7f7f2);padding:clamp(24px,3vw,46px);color:var(--ink,#242722);font-family:var(--font-body,'Manrope'),sans-serif;font-size:16px;line-height:1.65;}.ds-draft{outline-offset:12px;}.ds-draft>svg{display:block;color:var(--orange-dark,#b63c0d);margin-bottom:19px;}.ds-draft h3{font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:43px;font-weight:700;line-height:.98;letter-spacing:-.02em;margin:0;}.ds-draft>p:not(.ds-form-note){font-size:15px;margin:17px 0 24px;}.ds-draft .ds-draft-action{width:100%;font-size:30px;gap:15px;}.ds-draft .ds-draft-action svg{width:23px;}.ds-form-note{font-size:11px;line-height:1.8;margin:15px 0 0;color:var(--muted,#60645a);}.ds-form-note a{color:inherit;text-underline-offset:.22em;}.ds-form-note a:focus-visible{outline:3px solid var(--orange-dark,#b63c0d);outline-offset:5px;}.ds-draft:focus-visible{outline:3px solid var(--orange-dark,#b63c0d);outline-offset:5px;outline-offset:12px;}.ds-button{display:inline-flex;align-items:center;justify-content:center;gap:20px;min-height:62px;padding:12px 24px;border:2px solid transparent;border-radius:5px;font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:32px;font-weight:700;line-height:1.05;text-decoration:none;cursor:pointer;transition:background .2s,color .2s,border-color .2s;}.ds-button svg{flex-shrink:0;width:31px;height:31px;transition:transform .35s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-button:hover svg{transform:translate(3px,-3px);}.ds-button:focus-visible{outline:3px solid var(--ink,#242722);outline-offset:5px;}.ds-button:disabled{cursor:wait;opacity:.6;}.ds-dark{background:var(--ink,#242722);color:var(--paper,#f7f7f2);}.ds-dark:hover{background:var(--dark-hover,#3c4434);}@media(max-width:1000px){.ds-enquiry-panel{padding:26px;}}@media(max-width:760px){.ds-enquiry-panel{padding:25px 20px;}.ds-draft h3{font-size:39px;}.ds-draft>p:not(.ds-form-note){font-size:14px;}.ds-draft .ds-draft-action{font-size:28px;padding-inline:14px;gap:10px;}.ds-form-note{font-size:10px;}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}}"
+    },
+    {
+      "name": "Service Disclosure",
+      "kind": "custom",
+      "refersTo": "service-row",
+      "description": "Native details row with a square arrow, service-specific explanation, and a preselected enquiry destination.",
+      "html": "<details class=\"ds-service\" name=\"ds-plumbing-service\"><summary><span><h3>General plumbing</h3><span class=\"ds-service-summary\">The little fixes that make a big difference.</span></span><span class=\"ds-service-arrow\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"31\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M7 7h10v10\"/><path d=\"M7 17 17 7\"/></svg></span></summary><div class=\"ds-service-expanded\"><p>Dripping taps, running toilets, tired fittings and the plumbing jobs on your to-do list. Tell Mike what needs attention and get a clear plan for the repair.</p><p class=\"ds-service-includes\">Tap &amp; toilet repairs · Fixture replacements · Everyday maintenance</p><a href=\"/?service=General%20plumbing#contact\" class=\"ds-service-link\">Enquire about general plumbing<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"31\" height=\"31\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 12h14\"/><path d=\"m12 5 7 7-7 7\"/></svg></a></div></details>",
+      "css": ".ds-service{border-top:1px solid var(--line,#d6d8cf);border-bottom:1px solid var(--line,#d6d8cf);color:var(--ink,#242722);font-family:var(--font-body,'Manrope'),sans-serif;line-height:1.65;}.ds-service>summary{display:flex;justify-content:space-between;align-items:center;gap:25px;padding:24px 0;list-style:none;cursor:pointer;}.ds-service>summary::-webkit-details-marker{display:none;}.ds-service>summary:focus-visible{outline:3px solid var(--orange-dark,#b63c0d);outline-offset:5px;}.ds-service h3{font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:clamp(30px,2.6vw,40px);font-weight:700;line-height:.98;letter-spacing:-.01em;margin:0;}.ds-service-summary{display:block;margin-top:8px;font-size:14px;color:var(--muted,#60645a);}.ds-service-arrow{display:grid;place-items:center;width:51px;height:51px;flex-shrink:0;border:1px solid var(--line,#d6d8cf);color:var(--ink,#242722);transition:background .25s,color .25s;}.ds-service-arrow svg{width:27px;height:27px;transition:transform .4s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-service>summary:hover .ds-service-arrow,.ds-service[open] .ds-service-arrow{background:var(--orange,#e65012);border-color:var(--orange,#e65012);color:var(--white,#ffffff);}.ds-service[open] .ds-service-arrow svg{transform:rotate(90deg);}.ds-service-expanded{max-width:670px;padding:0 60px 27px 0;font-size:15px;}.ds-service-expanded p{margin:0;}.ds-service-includes{margin:15px 0 18px!important;font-size:13px;color:var(--muted,#60645a);}.ds-service-link{display:inline-flex;align-items:center;gap:12px;font-size:15px;font-weight:700;line-height:1.5;color:inherit;text-decoration:none;}.ds-service-link svg{width:18px;height:18px;transition:transform .3s var(--ease,cubic-bezier(.16,1,.3,1));}.ds-service-link:hover{color:var(--orange-dark,#b63c0d);}.ds-service-link:hover svg{transform:translate(3px,-2px);}.ds-service-link:focus-visible{outline:3px solid var(--orange-dark,#b63c0d);outline-offset:5px;}.ds-service[open] .ds-service-expanded{animation:ds-service-reveal .35s var(--ease,cubic-bezier(.16,1,.3,1));}@keyframes ds-service-reveal{from{opacity:.5;clip-path:inset(0 0 10% 0);}to{opacity:1;clip-path:inset(0);}}@media(max-width:1000px){.ds-service>summary{padding-block:20px;gap:16px;}.ds-service-arrow{width:43px;height:43px;}.ds-service-summary{font-size:12px;}.ds-service-expanded{padding-right:0;font-size:14px;}}@media(max-width:760px){.ds-service>summary{padding:23px 0;}.ds-service h3{font-size:32px;}.ds-service-summary{margin-top:7px;}.ds-service-expanded{padding-bottom:25px;}.ds-service-includes{line-height:1.9;}}@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}}"
+    },
+    {
+      "name": "Locality Stamp",
+      "kind": "custom",
+      "refersTo": "locality-stamp",
+      "description": "The home hero’s circular location marker, rotated -11deg; it is not an interactive badge.",
+      "html": "<div class=\"ds-locality\" aria-label=\"Local plumber, Brisbane Queensland\"><span>LOCAL<br>PLUMBER /<br>BRISBANE<br>QLD</span></div>",
+      "css": ".ds-locality{display:grid;place-items:center;width:clamp(150px,14.2vw,218px);aspect-ratio:1;border-radius:50%;background:var(--orange,#e65012);color:var(--white,#ffffff);text-align:center;font-family:var(--font-display,'Barlow Condensed'),sans-serif;font-size:clamp(25px,3.1vw,48px);font-weight:700;line-height:.98;transform:rotate(-11deg);}@media(max-width:1000px){.ds-locality{width:135px;font-size:30px;}}@media(max-width:760px){.ds-locality{width:113px;font-size:25px;}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Brisbane Wayfinding",
+    "overview": "The identity borrows the clarity of a local trade sign: heavy condensed lettering, direct arrows, workwear orange, and charcoal on light paper. It feels capable and approachable. Large headings establish direction; plain explanatory text and real work photographs supply detail.\n\nThe layout alternates generous photographic sections with compact service rows. Flat colour bands mark changes of purpose. Phone actions stay conspicuous, especially on mobile. The approved white split hero is the home page's expression of this identity; its exact composition is not a universal template for new pages.",
+    "keyCharacteristics": [
+      "Bold condensed signage paired with practical, readable body type.",
+      "Orange actions and sign bands, charcoal anchors, and warm pale surfaces.",
+      "Square photographs, fine dividers, and restrained control rounding.",
+      "Real local evidence, visible phone access, and straightforward interaction."
+    ],
+    "rules": [
+      {
+        "name": "The Working Orange Rule",
+        "body": "Orange may fill an entire purposeful sign band or contact section. Keep the adjoining copy, controls, and section changes clear; an arbitrary accent-area limit is not part of this system.",
+        "section": "colors"
+      },
+      {
+        "name": "The Signage Type Rule",
+        "body": "Use Barlow Condensed for headings, wordmark, prominent phone numbers, sign bands, and action buttons. Use Manrope for explanations, navigation, form fields, and small practical information. Hero compression belongs only to the measured home heading.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "Keep content surfaces flat. Reserve the existing shadow treatment for the temporary mobile navigation layer.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep orange, charcoal, and light paper as the primary visual relationship, including purposeful full-width sign bands.",
+      "Do retain the loaded Barlow Condensed and Manrope weights, the distinct display/body roles, and the home hero's scoped compression.",
+      "Do preserve direct phone access, the mobile contact bar, visible keyboard focus, native disclosure semantics, and reduced-motion support.",
+      "Do use real project photographs as project evidence, preserve useful crops, and identify illustrative imagery honestly.",
+      "Do maintain mobile fields at 16px and keep labels, validation, draft review, and copy feedback visible and meaningful."
+    ],
+    "donts": [
+      "Don't apply the home hero's horizontal compression, circular stamp, or single rounded photo corner to every new component.",
+      "Don't introduce floating shadows on the flat content containers or replace the square field and row geometry with pills.",
+      "Don't substitute text glyphs for the existing SVG directional icons or remove focus treatment in favour of hover alone.",
+      "Don't use invented ratings, testimonials, licence numbers, or arrival guarantees as visual proof.",
+      "Don't present an illustrative hero image as a completed job, or an email draft as an enquiry already sent."
+    ]
+  }
+}
