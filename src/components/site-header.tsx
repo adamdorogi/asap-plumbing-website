@@ -46,7 +46,7 @@ export function SiteHeader() {
           {navigation.map(([label, href]) => <a key={href} href={href}>{label}</a>)}
         </nav>
         <a className="button header-phone" href={business.phoneHref} aria-label={`Call ASAP Plumbing QLD on ${business.phone}`}>
-          <Phone size={23} strokeWidth={2.3} aria-hidden="true" />
+          <Phone size={23} fill="currentColor" strokeWidth={2.3} aria-hidden="true" />
           <span>{business.phone}</span>
         </a>
         <button
