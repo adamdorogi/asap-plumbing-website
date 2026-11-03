@@ -1,0 +1,432 @@
+{
+  "regions": [
+    {
+      "id": "wordmark",
+      "kind": "text",
+      "note": "ASAP / PLUMBING QLD wordmark in orange and charcoal condensed lettering",
+      "grid": "A0:D0",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.022135416666666668,
+        "y": 0.013671875,
+        "w": 0.2936197916666667,
+        "h": 0.056640625
+      },
+      "box": {
+        "x": 0.022135416666666668,
+        "y": 0.013671875,
+        "w": 0.2936197916666667,
+        "h": 0.056640625
+      }
+    },
+    {
+      "id": "nav-services",
+      "kind": "control",
+      "note": "Services navigation link",
+      "grid": "D0:E0",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.380859375,
+        "y": 0.025390625,
+        "w": 0.07356770833333333,
+        "h": 0.0322265625
+      },
+      "box": {
+        "x": 0.380859375,
+        "y": 0.025390625,
+        "w": 0.07356770833333333,
+        "h": 0.0322265625
+      }
+    },
+    {
+      "id": "nav-work",
+      "kind": "control",
+      "note": "Our work navigation link",
+      "grid": "E0:F0",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.4986979166666667,
+        "y": 0.025390625,
+        "w": 0.0859375,
+        "h": 0.0322265625
+      },
+      "box": {
+        "x": 0.4986979166666667,
+        "y": 0.025390625,
+        "w": 0.0859375,
+        "h": 0.0322265625
+      }
+    },
+    {
+      "id": "nav-about",
+      "kind": "control",
+      "note": "About navigation link",
+      "grid": "G0:G0",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.6178385416666666,
+        "y": 0.025390625,
+        "w": 0.053385416666666664,
+        "h": 0.0322265625
+      },
+      "box": {
+        "x": 0.6178385416666666,
+        "y": 0.025390625,
+        "w": 0.053385416666666664,
+        "h": 0.0322265625
+      }
+    },
+    {
+      "id": "nav-contact",
+      "kind": "control",
+      "note": "Contact navigation link",
+      "grid": "H0:H0",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.7122395833333334,
+        "y": 0.025390625,
+        "w": 0.0703125,
+        "h": 0.0322265625
+      },
+      "box": {
+        "x": 0.7122395833333334,
+        "y": 0.025390625,
+        "w": 0.0703125,
+        "h": 0.0322265625
+      }
+    },
+    {
+      "id": "nav-phone",
+      "kind": "control",
+      "note": "Orange phone control with white number 0434 151 105",
+      "grid": "I0:J0",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.8229166666666666,
+        "y": 0.013671875,
+        "w": 0.16471354166666666,
+        "h": 0.056640625
+      },
+      "box": {
+        "x": 0.8229166666666666,
+        "y": 0.013671875,
+        "w": 0.16471354166666666,
+        "h": 0.056640625
+      }
+    },
+    {
+      "id": "headline-local",
+      "kind": "text",
+      "note": "YOUR LOCAL. charcoal heavy condensed uppercase headline",
+      "grid": "A1:E2",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.016927083333333332,
+        "y": 0.13671875,
+        "w": 0.4485677083333333,
+        "h": 0.1328125
+      },
+      "box": {
+        "x": 0.016927083333333332,
+        "y": 0.13671875,
+        "w": 0.4485677083333333,
+        "h": 0.1328125
+      }
+    },
+    {
+      "id": "headline-job",
+      "kind": "text",
+      "note": "ON THE JOB. orange heavy condensed uppercase headline",
+      "grid": "A2:E4",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.016927083333333332,
+        "y": 0.2822265625,
+        "w": 0.4427083333333333,
+        "h": 0.134765625
+      },
+      "box": {
+        "x": 0.016927083333333332,
+        "y": 0.2822265625,
+        "w": 0.4427083333333333,
+        "h": 0.134765625
+      }
+    },
+    {
+      "id": "hero-copy",
+      "kind": "text",
+      "note": "Three-line supporting copy explaining everyday plumbing and renovations in Brisbane with Mike on the tools",
+      "grid": "A4:E5",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.020833333333333332,
+        "y": 0.4375,
+        "w": 0.4095052083333333,
+        "h": 0.091796875
+      },
+      "box": {
+        "x": 0.020833333333333332,
+        "y": 0.4375,
+        "w": 0.4095052083333333,
+        "h": 0.091796875
+      }
+    },
+    {
+      "id": "hero-call",
+      "kind": "control",
+      "note": "Orange Call Mike 0434 151 105 control with white condensed lettering and up-right arrow",
+      "grid": "A5:C6",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.01953125,
+        "y": 0.5634765625,
+        "w": 0.2786458333333333,
+        "h": 0.06640625
+      },
+      "box": {
+        "x": 0.01953125,
+        "y": 0.5634765625,
+        "w": 0.2786458333333333,
+        "h": 0.06640625
+      }
+    },
+    {
+      "id": "hero-quote",
+      "kind": "control",
+      "note": "Get a quote outlined charcoal control on light background",
+      "grid": "D5:E6",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.3138020833333333,
+        "y": 0.5634765625,
+        "w": 0.14388020833333334,
+        "h": 0.06640625
+      },
+      "box": {
+        "x": 0.3138020833333333,
+        "y": 0.5634765625,
+        "w": 0.14388020833333334,
+        "h": 0.06640625
+      }
+    },
+    {
+      "id": "licensed",
+      "kind": "text",
+      "note": "Licensed plumber trust detail",
+      "grid": "A6:B6",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.020833333333333332,
+        "y": 0.662109375,
+        "w": 0.13346354166666666,
+        "h": 0.02734375
+      },
+      "box": {
+        "x": 0.020833333333333332,
+        "y": 0.662109375,
+        "w": 0.13346354166666666,
+        "h": 0.02734375
+      }
+    },
+    {
+      "id": "location",
+      "kind": "text",
+      "note": "Brisbane & surrounds service detail",
+      "grid": "B6:D6",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.1953125,
+        "y": 0.662109375,
+        "w": 0.16471354166666666,
+        "h": 0.02734375
+      },
+      "box": {
+        "x": 0.1953125,
+        "y": 0.662109375,
+        "w": 0.16471354166666666,
+        "h": 0.02734375
+      }
+    },
+    {
+      "id": "hours",
+      "kind": "control",
+      "note": "Orange 24/7 sign with white condensed text",
+      "grid": "D6:E7",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.384765625,
+        "y": 0.6513671875,
+        "w": 0.07877604166666667,
+        "h": 0.05078125
+      },
+      "box": {
+        "x": 0.384765625,
+        "y": 0.6513671875,
+        "w": 0.07877604166666667,
+        "h": 0.05078125
+      }
+    },
+    {
+      "id": "hero-photo",
+      "kind": "image",
+      "bleed": true,
+      "plate": "public/images/brisbane-bathroom.png",
+      "note": "Natural sunlit Australian bathroom photo: white vertical tile, leafy tropical garden through left window, white vessel basin and chrome tap on oak vanity right, round mirror, plant and natural towel. Photograph only, no lettering or stamp.",
+      "grid": "E1:J6",
+      "measuredBox": {
+        "x": 0.4889322916666667,
+        "y": 0.1171875,
+        "w": 0.4993489583333333,
+        "h": 0.5302734375
+      },
+      "box": {
+        "x": 0.4889322916666667,
+        "y": 0.1171875,
+        "w": 0.4993489583333333,
+        "h": 0.5302734375
+      }
+    },
+    {
+      "id": "locality-stamp",
+      "kind": "chrome",
+      "note": "Orange circular local plumber Brisbane QLD seal overlapping photograph, condensed white text rotated slightly",
+      "grid": "E0:G2",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.4615885416666667,
+        "y": 0.0849609375,
+        "w": 0.14192708333333334,
+        "h": 0.2138671875
+      },
+      "box": {
+        "x": 0.4615885416666667,
+        "y": 0.0849609375,
+        "w": 0.14192708333333334,
+        "h": 0.2138671875
+      }
+    },
+    {
+      "id": "photo-caption",
+      "kind": "text",
+      "note": "White condensed Good plumbing. Good people. on charcoal caption band",
+      "grid": "F6:J6",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.5904947916666666,
+        "y": 0.6591796875,
+        "w": 0.3580729166666667,
+        "h": 0.033203125
+      },
+      "box": {
+        "x": 0.5904947916666666,
+        "y": 0.6591796875,
+        "w": 0.3580729166666667,
+        "h": 0.033203125
+      }
+    },
+    {
+      "id": "caption-band",
+      "kind": "chrome",
+      "note": "Solid charcoal photo caption background",
+      "grid": "E6:J7",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.4889322916666667,
+        "y": 0.6474609375,
+        "w": 0.4993489583333333,
+        "h": 0.060546875
+      },
+      "box": {
+        "x": 0.4889322916666667,
+        "y": 0.6474609375,
+        "w": 0.4993489583333333,
+        "h": 0.060546875
+      }
+    },
+    {
+      "id": "service-band",
+      "kind": "chrome",
+      "note": "Full-width orange services strip",
+      "grid": "A7:J8",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0,
+        "y": 0.7314453125,
+        "w": 1,
+        "h": 0.076171875
+      },
+      "box": {
+        "x": 0,
+        "y": 0.7314453125,
+        "w": 1,
+        "h": 0.076171875
+      }
+    },
+    {
+      "id": "service-band-text",
+      "kind": "text",
+      "note": "White condensed REPAIRS arrow RENOVATIONS arrow DRAINAGE arrow HOT WATER",
+      "grid": "A7:J7",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.05859375,
+        "y": 0.748046875,
+        "w": 0.8951822916666666,
+        "h": 0.0419921875
+      },
+      "box": {
+        "x": 0.05859375,
+        "y": 0.748046875,
+        "w": 0.8951822916666666,
+        "h": 0.0419921875
+      }
+    },
+    {
+      "id": "mike-photo",
+      "kind": "image",
+      "bleed": true,
+      "plate": "public/images/mike-plumber.png",
+      "note": "Actual portrait of Mike working with plumbing. Use sourced Facebook portrait in place of the concept's synthetic person as a factual correction.",
+      "grid": "A8:D9",
+      "measuredBox": {
+        "x": 0,
+        "y": 0.826171875,
+        "w": 0.3515625,
+        "h": 0.173828125
+      },
+      "box": {
+        "x": 0,
+        "y": 0.826171875,
+        "w": 0.3515625,
+        "h": 0.173828125
+      }
+    },
+    {
+      "id": "service-intro",
+      "kind": "text",
+      "note": "A small leak. A big renovation. Sorted. in bold condensed charcoal lettering",
+      "grid": "D8:J9",
+      "codeDrawn": true,
+      "measuredBox": {
+        "x": 0.380859375,
+        "y": 0.8828125,
+        "w": 0.60546875,
+        "h": 0.0576171875
+      },
+      "box": {
+        "x": 0.380859375,
+        "y": 0.8828125,
+        "w": 0.60546875,
+        "h": 0.0576171875
+      }
+    },
+    {
+      "id": "layout-ground",
+      "kind": "chrome",
+      "grid": "A0:J9",
+      "container": true,
+      "codeDrawn": true,
+      "note": "Transparent document layout wrapper; every visible element is named separately. Unoccupied light page ground and spacing around named text are intentional."
+    }
+  ]
+}
